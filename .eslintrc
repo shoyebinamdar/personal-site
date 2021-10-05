@@ -29,8 +29,8 @@
       "declaration": true,
       "assignment": true,
       "return": true
-    }],
-    "linebreak-style": ["error", "windows"]
+    }]
+    //"linebreak-style": ["error", "windows"]
   },
   "plugins": [
     "react"
